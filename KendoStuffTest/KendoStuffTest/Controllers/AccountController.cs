@@ -22,6 +22,8 @@ namespace KendoStuffTest.Controllers
         {
         }
 
+        //test
+
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
             UserManager = userManager;
